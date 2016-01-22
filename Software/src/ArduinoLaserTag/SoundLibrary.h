@@ -99,7 +99,7 @@ static const byte* soundLibrary_PRG[] = {
   soundMachineGunShoot_PRG, 
   soundAmmoEmpty_PRG,
   soundSecret_PRG,
-  soundStop_PRG.
+  soundStop_PRG,
   soundAmmoEmpty_PRG
 };
 

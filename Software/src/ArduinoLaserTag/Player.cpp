@@ -44,11 +44,7 @@ byte *Player::getSound (){
   return(_currSound);
 }
 
-boolean Player::playSound (){
-  return(_playSound);
-}
-
-void setIsHit (boolean value){
+void Player::setIsHit (boolean value){
   _isHit = value;
 }
 
