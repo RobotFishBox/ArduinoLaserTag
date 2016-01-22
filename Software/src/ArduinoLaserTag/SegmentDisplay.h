@@ -29,7 +29,7 @@
  */
 
 #ifndef SegmentDisplay_h
-#define SegmentDisply_h
+#define SegmentDisplay_h
 
 #include "Configuration.h"
 #include "arduino.h"
